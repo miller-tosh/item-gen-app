@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ItemGenerator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fantasy Item Generator</string>
+    <string name="nav_header_subtitle">QR Code Scanner</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="levels">
+        <item>Level 1 — 5</item>
+        <item>Level 6 — 10</item>
+        <item>Level 11 — 15</item>
+        <item>Level 16 — 20</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Armor</item>
+        <item>Weapon</item>
+        <item>Element</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
