@@ -1,4 +1,5 @@
-EMAIL: tosh.miller@wsu.edu
+WSU-V CS 458 
+Mobile Apps Final Project
 
 D&D QR Item Generator
 
